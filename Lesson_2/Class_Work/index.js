@@ -5,9 +5,3 @@ console.log(name);
 
 let time = 20;
 console.log(time);
-
-
-
-
-
-
