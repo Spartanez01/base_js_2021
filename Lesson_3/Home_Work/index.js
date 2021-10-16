@@ -18,4 +18,4 @@
 // console.log(undefined + null); /* тип number/результат NaN; undefined преобразуется в NaN, null = 0, NaN + 0 = NaN */
 // console.log(1 === "1"); /* тип boolean/результат false; при строгом равестве число и строка не равны */
 // console.log("2" > 10); /* тип boolean/результат false; строка преобразуется в число, будут сравниваться числа */
-console.log(NaN == undefined); /* тип boolean/результат false; действует правило не строгого равенства null == undefined */
+// console.log(NaN == undefined); /* тип boolean/результат false; действует правило не строгого равенства null == undefined */
